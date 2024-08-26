@@ -56,5 +56,5 @@ app
 app.service('ideas').create({
   text: 'Build a cool app',
   tech: 'Node.js',
-  viewer: 'John Doe'
+  viewer: 'Pranesh'
 });
